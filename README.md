@@ -1,4 +1,4 @@
-# 🧠 Customer Segmentation Using K-Means Clustering
+# Customer Segmentation Using K-Means Clustering
 
 This project performs customer segmentation using **K-Means Clustering**, a powerful unsupervised machine learning technique. By analyzing customer purchasing behavior, the model segments customers into distinct groups based on features such as age, income, and spending score.
 
